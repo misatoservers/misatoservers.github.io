@@ -1,1 +1,1 @@
-apply_crosshair_code CSGO-dZxDQ-WQWeh-yuoaB-EvmVz-2XT4M; bind c +duck; bind mwheelup +jump; bind mwheeldown +jump; sensitivity 2.83
+apply_crosshair_code CS7G7RmEp3EQiNutvCvwyOhXrZy5mpEeEGiMeU2rAccEPJ; bind c +duck; bind mwheelup +jump; bind mwheeldown +jump; sensitivity 2.83
